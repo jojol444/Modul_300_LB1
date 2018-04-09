@@ -7,3 +7,6 @@ Zuerst habe ich die Multi Machine Umgebung aufgebaut, der Code und die Infos bef
 2. Box erstellen:
 Als zweites habe ich eine Box mit Centos/7 erstellt.
 
+3. Vagrantfile erstellt:
+Als nächstes habe ich ein Vagrantfile erstellt, welches einen DHCP Dienst installiert.
+
